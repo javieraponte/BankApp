@@ -11,5 +11,5 @@ and you choose the differents options:
 - E. Exit
 
 # For version 2
-I needed add input validation (name and ID)
+I need add input validation (name and ID)
 - Please tell me how can I improve
